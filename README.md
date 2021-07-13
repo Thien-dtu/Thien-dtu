@@ -9,8 +9,8 @@ I'm Duc Thien .
 
 - 🍒 Developer at DuyTanUniversity
 - 🍉 Working on DuyTanUniversity
-- 🍎 Mission: **Make Developer Happier**
-More details on [buiducthien.tech](https://www.buiducthien.tech/).
+- 🍎 Mission: **Make Developer Happier
+- **More details on [buiducthien.tech](https://www.buiducthien.tech/).
 ### Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=thien-dtu&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
 
