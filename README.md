@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Thien-dtu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 ### Hi there 👋
 
 <p align="center"> 
@@ -18,7 +12,7 @@ I'm Duc Thien .
 - 🍎 Mission: **Make Developer Happier**
 More details on [buiducthien.tech](https://www.buiducthien.tech/).
 ### Github Stats
-![](https://github-readme-stats.vercel.app/api?username=thien-dtucc&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
+![](https://github-readme-stats.vercel.app/api?username=thien-dtu&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
 
 <!---
 Thien-dtu/Thien-dtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
