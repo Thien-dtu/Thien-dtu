@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/sorrycc/count.svg" />
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/thien-dtu/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/thien-dtu/count.svg) -->
 
 I'm Duc Thien .
 
