@@ -11,8 +11,8 @@ I'm Duc Thien .
 - 🍉 Working on DuyTanUniversity
 - 🍎 Mission: **Make Developer Happier
 - **More details on [buiducthien.tech](https://www.buiducthien.tech/).
-### Github Stats
-![](https://github-readme-stats.vercel.app/api?username=thien-dtu&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
+<!-- ### Github Stats
+![](https://github-readme-stats.vercel.app/api?username=thien-dtu&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff) -->
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien-dtu&layout=compact&hide=html" alt="thien-dtu" /></div>
 <br />
