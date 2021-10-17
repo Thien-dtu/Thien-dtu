@@ -3,6 +3,7 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sorrycc/count.svg" />
+  ![Visitor Count](https://profile-counter.glitch.me/thien-dtu/count.svg)
 </p>
 
 I'm Duc Thien .
